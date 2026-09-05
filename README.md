@@ -1,7 +1,7 @@
 <a name="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:043927,50:10b981,100:043927&amp;height=220&amp;section=header&amp;text=Interest%20Calculators&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Simple%20%26%20Compound%20Interest%20Tools%20%E2%80%94%20Bash%20%2B%20Python&amp;descAlignY=54&amp;descSize=15" width="100%" alt="Interest Calculators Header" />
+![Interest Calculators Header](https://capsule-render.vercel.app/api?type=waving&color=0:043927,50:10b981,100:043927&height=220&section=header&text=Interest%20Calculators&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Simple%20%26%20Compound%20Interest%20Tools%20%E2%80%94%20Bash%20%2B%20Python&descAlignY=54&descSize=15)
 
 <br/>
 
